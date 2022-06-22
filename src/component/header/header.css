@@ -1,0 +1,17 @@
+.brand-link{
+    text-decoration: none!important;
+}
+.bucket-item{
+    background: red;
+    border-radius: 50px;
+    font-weight: bolder;
+    padding: 3px;
+    top: 7px;
+    position: absolute;
+    font-size: 15px;
+    width: 23px;
+}
+.fa-shopping-cart::before{
+    font-size: xx-large;
+
+}

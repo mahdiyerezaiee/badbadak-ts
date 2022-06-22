@@ -1,0 +1,12 @@
+.bucket-bg{
+    background: #e8e3dd;
+    padding: 20px;
+    border-radius: 10px;
+}
+.back-btn{
+    margin-right: 5rem;
+}
+.total-price{
+    font-size: x-large;
+    font-weight: bolder;
+}
